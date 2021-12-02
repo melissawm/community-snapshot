@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="206.92194mm"
+   height="17.974039mm"
+   viewBox="0 0 206.92194 17.974039"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="snapshot-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.56123737"
+     inkscape:cx="323.39258"
+     inkscape:cy="-73.052868"
+     inkscape:window-width="1874"
+     inkscape:window-height="1047"
+     inkscape:window-x="46"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.454944,-96.012982)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.6389px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.378971"
+       y="109.78896"
+       id="text914"><tspan
+         sodipodi:role="line"
+         id="tspan912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke-width:0.264583"
+         x="41.378971"
+         y="109.78896"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#007046;fill-opacity:1;stroke:#007046;stroke-opacity:1"
+   id="tspan16441">community</tspan>    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#960028;fill-opacity:1;stroke:#960028;stroke-opacity:1"
+   id="tspan22879">snapshot</tspan></tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ffb040;fill-opacity:1;fill-rule:evenodd;stroke:#ffb040;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path33994"
+       sodipodi:cx="613.32269"
+       sodipodi:cy="126.33588"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="38.139534"
+       sodipodi:argument="-18.250322"
+       sodipodi:t0="0"
+       d="m 613.32269,126.33588 c 1.57908,1.07853 -0.67477,2.66068 -1.79259,2.62454 -3.0292,-0.0979 -4.19807,-3.7342 -3.45648,-6.20971 1.32655,-4.42812 6.6558,-5.92134 10.62684,-4.28843 5.82766,2.39637 7.68619,9.6136 5.12037,15.04396 -3.41983,7.23782 -12.5838,9.46818 -19.46108,5.95232 -8.65435,-4.42437 -11.25894,-15.55982 -6.78426,-23.87821 5.41943,-10.07469 18.53906,-13.05474 28.29533,-7.61621 11.49742,6.40913 14.8537,21.52034 8.44815,32.71246 -7.39547,12.92174 -24.50296,16.65478 -37.12958,9.28009 -14.34717,-8.37959 -18.45734,-27.48652 -10.11204,-41.5467 9.36217,-15.773386 30.47079,-20.260972 45.96382,-10.943983 17.20021,10.343623 22.06542,33.455573 11.77593,50.380943"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.7589225,71.901763)" />
+  </g>
+</svg>

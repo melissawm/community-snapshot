@@ -1,0 +1,40 @@
+{
+  "report": {
+    "numpy_github_org": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "numpy_github_org",
+          "mime_prefix": "application/papermill.record/"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "'numpy'"
+      }
+    },
+    "numpy_start": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "numpy_start",
+          "mime_prefix": "application/papermill.record/"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "'2021-11-21'"
+      }
+    },
+    "numpy_stop": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "numpy_stop",
+          "mime_prefix": "application/papermill.record/"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "'2021-12-01'"
+      }
+    }
+  }
+}
